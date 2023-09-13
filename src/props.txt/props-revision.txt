@@ -1,0 +1,4 @@
+what is props?
+make components?
+pass data from 1 component to other component?
+get data with props?
